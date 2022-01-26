@@ -8,3 +8,4 @@ Po zabiciu 10 przeciwnków gracz może przejść dalej przez bramę która otwie
 ![This is an image](https://media.discordapp.net/attachments/468740490842603530/935957202873765898/unknown.png?width=1202&height=676)
 Druga faza polega na umiejętnym przejściu na drugą platformę używając pistoletu z liną
 ![This is an image](https://media.discordapp.net/attachments/468740490842603530/935957284281012244/unknown.png?width=1202&height=676)
+ 
